@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "443575910340",
+    "project_id": "salons-a61fd",
+    "storage_bucket": "salons-a61fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443575910340:android:a73f0e7e9599d5bfa7ee91",
+        "android_client_info": {
+          "package_name": "com.halaqy2.networkUpp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443575910340-osrsikubdds2nnr0ufeasr82d18oqmsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halaqy2.networkUpp",
+            "certificate_hash": "2bf48af165a7034d30115408790605d4e49d9591"
+          }
+        },
+        {
+          "client_id": "443575910340-d0j0enbnv4j02ioc443nnuf8671h94hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXOvOtIOVObwN22P_eaFmoGo9y1rIHSBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443575910340-d0j0enbnv4j02ioc443nnuf8671h94hq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443575910340-5b0ck51hd3ja2piffp87gugm70hbp5tj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hallaqy.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
